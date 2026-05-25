@@ -19,5 +19,4 @@ int main() {
     } while (fabs(x - a) > e);
     printf("%f", x);
   }
-
 }
